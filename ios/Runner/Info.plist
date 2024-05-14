@@ -27,13 +27,13 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
 	<key>LSApplicationQueriesSchemes</key>
-	<key>NSAppleMusicUsageDescription</key>
-	<string>This application sends SMS messages from your device.</string>
 	<array>
 		<string>sms</string>
 	</array>
-	<string>Main</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This application sends SMS messages from your device.</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
